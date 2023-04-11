@@ -1,4 +1,3 @@
-# LendingClub-Investment-Decision-Model
 Lending Club Loan Repayment Prediction Model
 
 ## Overview
